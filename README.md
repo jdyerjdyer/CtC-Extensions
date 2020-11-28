@@ -23,36 +23,38 @@ Currently only one extension. I hope to add more in the future as needed.
 
         This extension operates completely separate from the normal toolbar. It only interacts with the grid using its own methods.
         This means all the buttons on the regular toolbar including undo and redo have no effect regarding corner colors.
-        This extension also does not have its own undo/redo feature at this time, so all actions are final with regard to corner colors.
+        This extension also does not have its own undo/redo feature at this time, so all actions are final with regard to corner
+        colors.
+        
         This extension has been tested in Chrome and Edge. It may work in other browsers. Use at your own risk. I will try and keep it
         working, but I make no guarantees that it will work in the future, or with all past puzzles. I've tested it on a few.
         If there are any issues, feel free to submit them.
 
 ###    How to Use the Extension:
-        ** Applying colors to corners of selected cells: **
+        **Applying colors to corners of selected cells:**
             1. Select any cells you want to affect in the grid.
             2. Click on one or more of the four white squares in the new tool area. These are the corners of the selected cells that will
             be affected by your next action.
             3. Click on one of the colors (in the new tool area) to apply that color to the selected corners.
 
-        ** Removing colors from the corners of selected cells: **
+        **Removing colors from the corners of selected cells:**
             1. Select any cells you want to affect in the grid.
             2. Click on one or more of the four white squares in the new tool area. These are the corners of the selected cells that will
             be affected by your next action.
             3. Click on delete (in the new tool area) to remove any color from the selected corners of the selected cells.
 
-        ** Removing all corner colors from the entire grid at once: **
+        **Removing all corner colors from the entire grid at once:**
             1. Click on Clear All Corner Colors button to clear all corner colors from the grid.
             2. Click yes/continue/confirm to the prompt to remove them or cancel to leave them.
 
-        ** Temporarily disabling the extension: **
+        **Temporarily disabling the extension:**
             1. Click on the Disable button to remove the extension. A button will remain to re-enable it.
             2. Click yes/continue/confirm to remove the extension or cancel to leave it active.
         
-        ** Completely remove the extension: **
+        **Completely remove the extension:**
             1. Simply reload the webpage. Note that in the legacy app this will reset the puzzle.
     
-    ** Notes: **
+    **Notes:**
         In some of the older puzzles, and especially in the legacy app, the sorting order can cause the corner squares to hide some puzzle
         elements. I have tried to ensure the best consistency between the new app and the legacy app, meaning that when possible, the
         corner colors will sit in front of the standard colors, behind (most) puzzle elements, behind the numbers, and behind the selected
@@ -75,4 +77,4 @@ Currently only one extension. I hope to add more in the future as needed.
         should CtC ask their developer to add it to the app. The ony work left besides some formatting would be the keyboard inputs and the
         undo/redo integration. Maybe they will give them the go ahead.
 
-        ** Enjoy! **
+        **Enjoy!**
