@@ -59,8 +59,8 @@
         
         There is no harm in trying the extension (beyond possible loss of progress during play, but unlikely as failure would more likely
         happen during installation) and if something does go wrong, simply reload the puzzle and the extension will be gone. During testing
-        I noted that the new app will still save any puzzle marks between reloading the page (although all corner marks are not saved, again,
-        separate code), but the legacy app does lose all progress when reloading.
+        I noted that the new app will still save any puzzle marks between reloading the page (although all corner color marks are not saved,
+        again, separate code), but the legacy app does lose all progress when reloading.
         
         The code to handle all this is pretty basic and the way I've implemented it lends well to being added to the new app permenantly
         should CtC ask their developer to add it to the app. The ony work left besides some formatting would be the keyboard inputs and the
