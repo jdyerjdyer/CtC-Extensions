@@ -1,7 +1,8 @@
 # CtC-Extensions
 Javascript Extensions for Cracking the Cryptic's Web App (Both the Legacy and their New App)
 
-Currently only one extension. I hope to add more in the future as needed. Feel free to use, add, make changes, or fork this project. I only ask for name credit.
+Currently only one extension. I hope to add more in the future as needed. Feel free to use, add, make changes, or fork this project.
+Just mention my name somewhere and please add a link back to this project if you found it useful.
 
 # CtC Four Corner Color Overlay Extension
 
