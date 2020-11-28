@@ -9,13 +9,11 @@ Currently only one extension. I hope to add more in the future as needed.
 
 ### Instructions: (Must be done each time a puzzle page is loaded.)
 
-        1. Right click on a blank spot on the browser page and select "Inspect" or "Open Inspector".
-        2. Navigate to the console panel in the inspector window.
-        3. Make sure the correct frame is selected. For the new app, this will be the one labeled "top". The frame drop down is usually
-                located at the top or bottom of the console tab. For the legacy app, the correct frame will be a set of characters with 
-                "cracking-the-cryptic.web.app" next to them.
-        4. Next copy this entire file and paste it into the console tab.
-        5. Hit the enter key on your keyboard.
+1. Right click on a blank spot on the browser page and select "Inspect" or "Open Inspector".
+2. Navigate to the console panel in the inspector window.
+3. Make sure the correct frame is selected. For the new app, this will be the one labeled "top". The frame drop down is usually located at the top or bottom of the console tab. For the legacy app, the correct frame will be a set of characters with "cracking-the-cryptic.web.app" next to them.
+4. Next copy this entire file and paste it into the console tab.
+5. Hit the enter key on your keyboard.
 
         If everything is successful, you will be greeted with a message saying the script has run. Hit okay and At this point you can close
         the inspector window. You should now see a button in a box below the standard controls. Click this button to active the extension.
