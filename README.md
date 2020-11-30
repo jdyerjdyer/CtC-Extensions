@@ -14,7 +14,7 @@ Just mention my name somewhere and please add a link back to this project if you
 1. Right click on a blank spot on the browser page and select "Inspect" or "Open Inspector".
 2. Navigate to the console panel in the inspector window.
 3. Make sure the correct frame is selected. For the new app, this will be the one labeled "top". The frame drop down is usually located at the top or bottom of the console tab. For the legacy app, the correct frame will be a set of characters with "cracking-the-cryptic.web.app" next to them.
-4. Next copy the entire file and paste it into the console tab.
+4. Next copy the entire file and paste it into the console tab. [Code File](https://raw.githubusercontent.com/jdyerjdyer/CtC-Extensions/main/CtC%20Four%20Corner%20Color%20Overlay.js)
 5. Hit the enter key on your keyboard.
 
 If everything is successful, you will be greeted with a message saying the script has run. Hit okay and At this point you can close the inspector window. You should now see a button in a box below the standard controls. Click this button to active the extension.
